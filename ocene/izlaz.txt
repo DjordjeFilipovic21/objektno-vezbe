@@ -1,0 +1,5 @@
+Ucenik djordje  filipovic sa ocenama 3, 4, 5, 3 i prosekom 3.75 ima Vrlo_dobar uspeh.
+Ucenik vojin  prljevic sa ocenama 5, 5, 5, 2 i prosekom 4.25 ima Vrlo_dobar uspeh.
+Prosek odeljenja je 4
+vojin  prljevic
+1
